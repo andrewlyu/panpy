@@ -1,7 +1,114 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ef61ecb-0fe1-4ad6-b82a-da4296ff01fd" name="Default Changelist" comment="Initialize panpy">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/build/lib/panpy/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/build/lib/panpy/pan_sdk/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/build/lib/panpy/pan_sdk/stat/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/build/lib/panpy/pan_sdk/stat/clean_merged_csv_form_htc_point.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/build/lib/panpy/pan_sdk/widgets/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/build/lib/panpy/pan_sdk/widgets/htc_visualizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/dist/panpy-0.0.1-py3-none-any.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/dist/panpy-0.0.1.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/panpy.egg-info/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/panpy.egg-info/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/panpy.egg-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/panpy.egg-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/source/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/panpy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/panpy.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eQIs91lpGqQWC7X6nYLk5Uy07z" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ef61ecb-0fe1-4ad6-b82a-da4296ff01fd" name="Default Changelist" comment="" />
+      <created>1594247594055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594247594055</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initialize panpy">
+      <created>1594247625276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594247625276</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Initialize panpy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialize panpy" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1203" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1594269262936">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1203" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1594269262936" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1594267663522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1594267663522" />
   </component>
 </project>
